@@ -8,6 +8,7 @@ Los tags son como etiquetas que le pones a versiones importantes de tu proyecto.
 
 Estas etiquetas te ayudan a encontrar fácilmente esos puntos importantes en el historial de cambios de tu proyecto. Son como marcadores que te permiten regresar a versiones específicas del libro sin tener que revisar todo el historial de cambios. Digamos que has etiquetado una versión de tu proyecto con "Versión 1.0". Si alguien quiere ver exactamente cómo era tu proyecto en esa versión, puede simplemente seleccionar ese tag en la plataforma (en GitHub, por ejemplo) y verá todos los archivos y el estado del proyecto en ese momento.
 
+![etiquetas](https://miro.medium.com/v2/resize:fit:1400/1*9yJY7fyscWFUVRqnx0BM6A.png)
 
 
 ## Generacion de TAGS
@@ -84,4 +85,5 @@ Si no quieres conservar los cambios que hiciste en el estado de "detached HEAD",
 git switch -
 ````
 Esto te llevará de vuelta a la rama en la que estabas antes de cambiar al estado de "cabeza desprendida", descartando cualquier cambio que hayas realizado en ese estado.
+
 
