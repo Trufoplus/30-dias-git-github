@@ -12,7 +12,7 @@ Imagina una empresa con varios desarrolladores. Si todos trabajan en la misma ra
 Cuando creamos una nueva función, creamos una nueva rama para trabajar en ella. Una vez que la función está completa, la combinamos con la rama principal (Main) en un proceso llamado "merge". Esto nos permite mantener un proyecto limpio y organizado, con una rama principal que representa el proyecto completo y ramas secundarias para nuevas funciones.
 
 # Tipos de ramas:
-![The Markdown logo]([https://www.atatus.com/blog/content/images/2021/06/git-branch-workflow-2.png](https://miro.medium.com/v2/resize:fit:1400/1*9yJY7fyscWFUVRqnx0BM6A.png))
+![The Markdown logo](https://miro.medium.com/v2/resize:fit:1400/1*9yJY7fyscWFUVRqnx0BM6A.png)
 
 ## Ramas principales:
 * Main: Esta es la rama principal y estable del proyecto. Aquí se encuentra el código en producción.
