@@ -55,3 +55,5 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 ## ¡Únete y Mejora tus Habilidades con Git & GitHub!
 
 ¡Te invitamos a unirte a nosotros en este emocionante viaje de 30 días para dominar Git & GitHub! ¡Esperamos verte en el camino y ayudarte a mejorar tus habilidades de desarrollo de software!
+
+---
