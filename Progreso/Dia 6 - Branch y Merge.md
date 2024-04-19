@@ -12,20 +12,31 @@ Imagina una empresa con varios desarrolladores. Si todos trabajan en la misma ra
 Cuando creamos una nueva función, creamos una nueva rama para trabajar en ella. Una vez que la función está completa, la combinamos con la rama principal (Main) en un proceso llamado "merge". Esto nos permite mantener un proyecto limpio y organizado, con una rama principal que representa el proyecto completo y ramas secundarias para nuevas funciones.
 
 # Tipos de ramas:
-![The Markdown logo](https://miro.medium.com/v2/resize:fit:1400/1*9yJY7fyscWFUVRqnx0BM6A.png)
 
 ## Ramas principales:
 * Main: Esta es la rama principal y estable del proyecto. Aquí se encuentra el código en producción.
 
+![main](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/main_branch.png)
+
 * Develop: Esta rama es donde se integran todas las características completadas y se preparan para la próxima versión.
+
+![](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/develop_branch.png)
 
 ## Ramas auxiliares:
 
 * Feature: Se utiliza para desarrollar nuevas características o funcionalidades. Es una rama temporal que se crea y elimina después de completar la tarea.
 
+![](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/feature_branch.png)
+
 * Release: Se crea a partir de la rama Develop para preparar una versión para producción. Se realizan pruebas finales y correcciones de errores antes de fusionarla con Main.
 
+![](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/realease%20branch.png)
+
 * Hotfix: Se usa para solucionar problemas críticos en producción de forma rápida. Se crea a partir de Main, se corrige el problema y se fusiona tanto con Main como con Develop.
+
+![](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/Hotfix%20branch.png)
+
+![](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/d10a99131793105b7b64a9b2557ed36b.jpg)
 
 ## ¿Por qué tantos tipos de ramas?
 Cada tipo de rama tiene un propósito específico para mantener un flujo de trabajo ordenado y minimizar el riesgo de errores en el código de producción. Es importante seguir esta metodología para evitar problemas inesperados al integrar código en las ramas principales como Main o Develop.
