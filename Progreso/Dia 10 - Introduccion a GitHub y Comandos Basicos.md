@@ -6,7 +6,7 @@
     + Permite a los desarrolladores trabajar en su código sin necesidad de una conexión a Internet.
     + Los cambios en el código se pueden realizar, deshacer y revisar localmente antes de ser compartidos con otros colaboradores.
 
-![](https://www.cs.swarthmore.edu/~adanner/help/git/git-repos.svg)
+![]([https://www.cs.swarthmore.edu/~adanner/help/git/git-repos.svg](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/local_vs_remoto.png))
 
 2. **Repositorio Remoto:**
     + Un repositorio remoto es una copia del proyecto que se encuentra en un servidor remoto, como GitHub, GitLab o Bitbucket.
