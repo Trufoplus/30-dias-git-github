@@ -63,3 +63,20 @@ upstream        https://github.com/kontroldev/30-dias-git-github.git (push)
 + ``git fetch``: Este comando descarga cambios desde el repositorio remoto a tu repositorio local, pero no los fusiona automáticamente con tu trabajo actual. Es útil para obtener una vista previa de los cambios antes de fusionarlos.
 
 + ``git push -u origin <nombre-de-la-rama>``: Este comando se utiliza para enviar tus cambios locales al repositorio remoto. El -u es para configurar la rama remota como la rama upstream, lo que significa que en futuros git push no necesitarás especificar la rama y se enviarán automáticamente a esa rama remota. <nombre-de-la-rama> es el nombre de la rama que estás enviando al repositorio remoto.
+
+````bash
+$ git push -u origin main
+#Resultado:
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 18.49 KiB | 9.25 MiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/Trufoplus/30-dias-git-github.git
+To https://github.com/oniricoh/30-dias-git-github.git
+   f678672..ffc1f65  main -> main
+branch 'main' set up to track 'origin/main'.
+````
