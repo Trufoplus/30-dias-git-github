@@ -68,7 +68,7 @@ upstream        https://github.com/kontroldev/30-dias-git-github.git (push)
 
 ````bash
 $ git push -u origin main
-#Resultado:git l
+#Resultado:
 Enumerating objects: 8, done.
 Counting objects: 100% (8/8), done.
 Delta compression using up to 12 threads
