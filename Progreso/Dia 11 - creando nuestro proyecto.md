@@ -11,7 +11,7 @@
 
 4. **Crea un nuevo repositorio:** En la página que se abre, verás la opción de crear un nuevo repositorio. Introduce un nombre para tu repositorio. Por ejemplo, puedes llamarlo "proyecto-mates".
 
-![creando_repositorio_remoto_2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/creando_repositorio_remoto_2.png)
+![creando_repositorio_remoto_2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/repository_name.jpg)
 
 5. **Añade una descripción (opcional):** Si lo deseas, puedes añadir una breve descripción para tu repositorio. Por ejemplo, "Este es nuestro repositorio remoto para nuestro proyecto de matemáticas."
 
@@ -75,12 +75,36 @@ git tag -a v1.0.0Alpha -m "Primera version casi lista pero inestable"
 
 6. Una vez que hayas hecho esto, ve a la página de tu repositorio en GitHub y verifica que los tags se hayan agregado correctamente. Puedes encontrarlos en la pestaña "Tags" en la parte superior de la página del repositorio.
 
-![tags 1]()
+![tags 1](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/tags%201.png)
 
 Si haces click en el simbolo de tags, podras ver un listado con las tags o versiones de tu proyecto.
 
-![tags 2]()
+![tags 2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/tags%202.png)
 
 Si haces click en el tags, podras verlo con mas detalles y incliso comprarla con otros tags de tu proyecto
 
-![tags 3]()
+![tags 3](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/tags%203.png)
+
+# GIT FETCH & GIT PULL
+
+desde nuestro github, podemos abrir un archivo, por ejemplo el README.md y modificarlo dandole al simbolo del lapiz arriba a la izquierda, y se nos abrira el editor. añadimos unas lineas y pinchamos en commit para committear los cambios.
+
+![pull_1]()
+
+en el commit nos da las opciones de darle una descripcion y tambien debajo podemos seleccionar si lo queremos commitear en la rama principal (main) o seleccionar otra rama.
+
+![pull_2]()
+
+- **git fetch**: Este comando permite recibir todas las modificaciones que se han realizado en el repositorio remoto, pero no las aplica directamente en el proyecto local. Al ejecutar `git fetch`, se obtiene información sobre los cambios que se han realizado en el repositorio remoto, pero no se actualiza automáticamente el proyecto local. Es como si se "recogieran" los cambios para tenerlos disponibles, pero aún no se integran en el proyecto local.
+
+![pull_4]()
+
+En la imagen marcado en amarillo nos dice que el repositorio remoto tiene un commmit que no tenemos en nuestro local. los nuemros y letras serian el hash de dicho commit.
+
+- **git pull**: Por otro lado, `git pull` descarga directamente los cambios desde el repositorio remoto y los aplica automáticamente al proyecto local. Es una combinación de los comandos `git fetch` y `git merge`, donde primero se recogen los cambios del repositorio remoto y luego se integran en el proyecto local. Al ejecutar `git pull`, se obtienen los cambios del repositorio remoto y se aplican directamente en el proyecto local.
+
+![pull_4]()
+
+tal y como vemos en la imagen, al hacer pull nos indica un cambio en el archivo README.md y que este archivo tiene 3 nuevas lineas agregadas que se han integrado sin ningun conflicto con nuestro archivo local.
+
+Es importante tener en cuenta que al utilizar `git pull`, los cambios del repositorio remoto se integran automáticamente en el proyecto local, lo que puede generar conflictos si hay modificaciones locales que entran en conflicto con los cambios remotos. Por eso, es recomendable revisar los cambios obtenidos mediante `git fetch` antes de aplicarlos con `git pull`, para evitar posibles conflictos y asegurarse de que los cambios se integren de manera adecuada en el proyecto local.
