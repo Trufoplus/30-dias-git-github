@@ -57,6 +57,32 @@
 
 ¡Y eso es todo!
 
+# Solucion de problemas al hacer push en windows
+
+En el momento que deseamos hacer el push de nuestro proyecto a GitHub es posible que nos aparezca un error como el siguiente:
+
+````bash
+(main) % git push -u origin main
+remote: Permission to reto-30-dias/proyecto.git denied to Daniel.
+fatal: unable to access 'https://github.com/proyecto.git/': The requested URL returned error: 403
+````
+
+Accede al Administrador de credenciales que te permite ver y eliminar tus credenciales guardadas para iniciar sesión en sitios web, aplicaciones conectadas y redes.
+
+Para abrir el Administrador de credenciales, escribe administrador de credenciales en el cuadro de búsqueda de la barra de tareas.
+
+Selecciona Credenciales de Windows para obtener acceso a las credenciales que quieres administrar.
+
+Busca GitHub entre las credenciales
+
+Elimina esta credencial del sistema
+
+Seguidamente prueba otra vez de hacer:
+
+% git push -u origin main
+
+te volvera a pedir que introduzcas tu nombre de usuario y contraseña nueva
+
 # Añadiendo Tags en GitHub
 
 1. Abre la terminal y navega hasta el directorio de tu proyecto utilizando el comando `cd`.
