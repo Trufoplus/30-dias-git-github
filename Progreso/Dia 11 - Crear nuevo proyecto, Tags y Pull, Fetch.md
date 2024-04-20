@@ -89,21 +89,21 @@ Si haces click en el tags, podras verlo con mas detalles y incliso comprarla con
 
 desde nuestro github, podemos abrir un archivo, por ejemplo el README.md y modificarlo dandole al simbolo del lapiz arriba a la izquierda, y se nos abrira el editor. añadimos unas lineas y pinchamos en commit para committear los cambios.
 
-![pull_1]()
+![pull_1](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pull_1.png)
 
 en el commit nos da las opciones de darle una descripcion y tambien debajo podemos seleccionar si lo queremos commitear en la rama principal (main) o seleccionar otra rama.
 
-![pull_2]()
+![pull_2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pull_2.png)
 
 - **git fetch**: Este comando permite recibir todas las modificaciones que se han realizado en el repositorio remoto, pero no las aplica directamente en el proyecto local. Al ejecutar `git fetch`, se obtiene información sobre los cambios que se han realizado en el repositorio remoto, pero no se actualiza automáticamente el proyecto local. Es como si se "recogieran" los cambios para tenerlos disponibles, pero aún no se integran en el proyecto local.
 
-![pull_4]()
+![pull_4](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pull_4.png)
 
 En la imagen marcado en amarillo nos dice que el repositorio remoto tiene un commmit que no tenemos en nuestro local. los nuemros y letras serian el hash de dicho commit.
 
 - **git pull**: Por otro lado, `git pull` descarga directamente los cambios desde el repositorio remoto y los aplica automáticamente al proyecto local. Es una combinación de los comandos `git fetch` y `git merge`, donde primero se recogen los cambios del repositorio remoto y luego se integran en el proyecto local. Al ejecutar `git pull`, se obtienen los cambios del repositorio remoto y se aplican directamente en el proyecto local.
 
-![pull_4]()
+![pull_5](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pull_5.png)
 
 tal y como vemos en la imagen, al hacer pull nos indica un cambio en el archivo README.md y que este archivo tiene 3 nuevas lineas agregadas que se han integrado sin ningun conflicto con nuestro archivo local.
 
