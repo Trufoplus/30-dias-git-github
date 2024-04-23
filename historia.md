@@ -4,3 +4,4 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 
 ![Git-logo svg](https://github.com/Trufoplus/30-dias-git-github/assets/46753856/80f4e813-7757-434f-ac3e-e5e64d804348)
 
+Esto es un cambio en la historia para hacer un pull-request
