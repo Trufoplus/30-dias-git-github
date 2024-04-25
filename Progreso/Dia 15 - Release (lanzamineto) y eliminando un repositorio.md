@@ -32,7 +32,7 @@ Un "release" (lanzamiento) es una versión específica y estable de un software 
    ![release-4](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/realease-4.png)
 
 4. **Revisión y mejora del lanzamiento:**
-   - Una vez satisfechos con el lanzamiento, dale a editar, simbolo del lapiz, y dale a publicar la versión final, indicando que es el primer lanzamiento oficial del proyecto, ahora te aparecera con la etiqueta "latest"
+   - Una vez satisfechos con el lanzamiento, dale a editar, simbolo del lapiz, y dale a publicar la versión final, indicando que es el primer lanzamiento oficial del proyecto, ahora te aparecera con la etiqueta "latest", no olvides quitar la marca en la casilla de "pre-release"
    
    ![release-5](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/realease-5.png)
 
