@@ -76,6 +76,46 @@ Siguiendo estos pasos, podrás crear, editar y gestionar fácilmente las página
 
 ![wikis-8](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/wikis-8.png)
 
+Claro, aquí tienes los pasos para editar localmente la wiki de un repositorio en GitHub y dar formato Markdown a la explicación:
+
+### Editar localmente la wiki paso a paso:
+
+Lo mas comun es editar la wiki en remoto, pero si por algun motivo lo deseas hacer en local, sigue los pasos.
+
+1. **Clonar el repositorio:**
+   Para comenzar, clona el repositorio que contiene la wiki en tu máquina local utilizando el siguiente comando, en la carpeta donde esta tu repositorio local:
+   ```bash
+   git clone <URL_del_repositorio_wiki>.wiki
+   ```
+    de esta manera se descargara la wiki localmente
+
+2. **Navegar a la carpeta de la wiki:**
+   Accede al directorio de la wiki clonada utilizando el comando `cd`. Por ejemplo:
+   ```bash
+   cd nombre_del_repositorio_wiki
+   ```
+   puedes abrir la carpeta con el comando `explorer .`
+
+3. **Editar los archivos de la wiki:**
+   Utiliza tu editor de texto preferido para modificar los archivos de la wiki localmente. Puedes abrir los archivos `.md` en tu editor y realizar los cambios necesarios.
+
+4. **Guardar los cambios:**
+   Una vez que hayas terminado de editar los archivos, guarda los cambios en tu editor de texto.
+
+5. **Agregar los cambios al área de preparación:**
+   Agrega los archivos modificados al área de preparación utilizando el siguiente comando:
+   ```bash
+   git add .
+   ```
+
+6. **Confirmar los cambios:**
+   Confirma los cambios utilizando el comando `git commit` junto con un mensaje descriptivo:
+   ```bash
+   git commit -m "Mensaje descriptivo de los cambios"
+   ```
+
+7. **Enviar los cambios al repositorio remoto:**
+   Finalmente, envía los cambios al repositorio remoto utilizando el comando `git push`
 
 
 
