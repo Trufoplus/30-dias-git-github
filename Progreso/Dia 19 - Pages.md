@@ -19,16 +19,16 @@ Es una de las funcionalidades más útiles dentro del ecosistema de GitHub, espe
    - Desplázate hacia abajo hasta encontrar la sección "GitHub Pages".
    - Dentro de esta sección, encontrarás la opción "branch" para habilitar GitHub Pages.
 
-![pages-1](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-1.png)
+    ![pages-1](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-1.png)
 
    - Selecciona la rama principal del repositorio como la fuente para tu página web o crea una rama nueva.
 
-![pages-2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-2.png)
+    ![pages-2](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-2.png)
 
 4. **Elige una Carpeta Raíz (Opcional)**:
    - Puedes elegir utilizar la carpeta raíz del repositorio o una carpeta específica, como "docs", para tu sitio web. Esto es útil para mantener separado el contenido del sitio web del código del proyecto.
 
-      ![pages-3](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-3.png)
+    ![pages-3](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/pages%20-3.png)
 
 5. **Guarda la Configuración**:
    - Después de seleccionar la rama y la carpeta raíz, dale a guardar (save) la configuración.
