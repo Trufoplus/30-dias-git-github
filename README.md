@@ -23,32 +23,44 @@ La dinámica de esta actividad es simple:
 
 ## Contenido de la actividad
 
-### Primeros 15 Días: Fundamentos de Git & GitHub
 
-Durante los primeros 15 días, nos enfocaremos en aprender los conceptos básicos de Git & GitHub:
+- Dia 1: [Historia y fundamentos de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/1.%E2%80%90-Dia-1-%E2%80%90)
+- Dia 2: [Configuración y uso básico de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/2.%E2%80%90-Dia-2-%E2%80%90)
+- Dia 3: [Comandos Vim](https://github.com/Trufoplus/30-dias-git-github/wiki/3.%E2%80%90-Dia-3-%E2%80%90)
+- Dia 4: [Comandos basicos de Git 1/2](https://github.com/Trufoplus/30-dias-git-github/wiki/4.%E2%80%90-Dia-4-%E2%80%90)
+- Dia 5: [Comandos basicos de git 2/2](https://github.com/Trufoplus/30-dias-git-github/wiki/5.%E2%80%90-Dia-5-%E2%80%90-Readme)
+- Dia 6: [Branch y Merge](https://github.com/Trufoplus/30-dias-git-github/wiki/6.-Dia-6-%E2%80%90-Branch-y-Merge)
+- Dia 7: [Tags](https://github.com/Trufoplus/30-dias-git-github/wiki/7.-Dia-7-%E2%80%90-Tags)
+- Dia 8: [Stash](https://github.com/Trufoplus/30-dias-git-github/wiki/8.-Dia-8-%E2%80%90-Stash)
+- Dia 9: [Rebase](https://github.com/Trufoplus/30-dias-git-github/wiki/9.-Dia-9-%E2%80%90-Rebase)
+- Dia 10: [Introduccion a GitHub](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-10-%E2%80%90-Introduccion-a-GitHub-y-Comandos-Basicos)
+- Dia 11: [Crear un nuevo proyecto](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-11-%E2%80%90-Crear-nuevo-proyecto,-Tags-y-Pull,-Fetch)
+- Dia 12: [Clonar Repositorio](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-12-%E2%80%90-Clonar-Repositorio,-Crear-archivo-desde-GitHub,-Commits-en-profundidad)
+- Dia 13: [Colaboradores](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-13-%E2%80%90-Invitar-Colaboradores,-Forks,-Como-contribuir-con-la-comunidad-de-codigo-abierto)
+- Dia 14: [Pull Request](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-14-%E2%80%90-Pull-Request,-Como-hacer-una-pr-y-buenas-practicas.)
+- Dia 15: [Release](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-15-%E2%80%90-Release-y-eliminando-un-repositorio)
 
-- Historia y fundamentos de Git
-- Configuración y uso básico de Git
-- Creación y gestión de repositorios en GitHub
-- Ramas (branches) y fusiones (merges)
-- Resolución de conflictos y otros comandos útiles de Git
-- Colaboración básica en GitHub
-
-### Últimos 15 Días: Creación de un README y Colaboración en Proyectos
-
-Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
-
-- Creación de un README atractivo y efectivo para tu página de GitHub
-- Uso de Markdown para dar formato al README
-- Integración de imágenes y enlaces útiles en el README
-- Prácticas recomendadas para la documentación en GitHub
-- Colaboración en proyectos de código abierto
-- Uso de ramas y pull requests para contribuir a proyectos existentes
-- Resolución de problemas comunes en colaboración de proyectos en GitHub
+- Dia 16: [issues y milestones](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-16-%E2%80%90-Issues-y-Milestones)
+- Dia 17: [wikis](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-17-%E2%80%90-Wiki)
+- Dia 18: [New Projects](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-18-%E2%80%90-Organizaci%C3%B3n-y-Gesti%C3%B3n-de-Proyectos-en-GitHub)
+- Dia 19: [Pages](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-19-%E2%80%90-Github-Pages,-C%C3%B3mo-alojar-tu-sitio-web-usando-GitHub-Pages.)
+- Dia 20: [Gists](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-20-%E2%80%90--Qu%C3%A9-es-Gists,-Utilidades-y-formas-de-usar-Gists.)
+- Dia 21: [Github Desktop 1/2]()
+- Dia 22: [Github Desktop 2/2]()
+- Dia 23: [Seguridad]()
+- Dia 24: [Llaves y claves]()
+- Dia 25: [Github desde VsCode]()
+- Dia 26: [Git kraken]()
+- Dia 27: [en construccion]()
+- Dia 28: [en construccion]()
+- Dia 29: [en construccion]()
+- Dia 30: [en construccion]()
 
 ## Que recursos utilizaremos
 - Repositorio de Brais Moure: [hello-git](https://github.com/mouredev/hello-git)
 - Aplicación Git-it para Windows/Mac/Linux: [Git-it](https://github.com/jlord/git-it-electron)
+- Aplicacion [Github Desktop](https://desktop.github.com/)
+- Aplicacion [Git kraken](https://www.gitkraken.com/)
 - Recursos que vayan aportando la comunidad en el [hilo](https://discord.com/channels/729672926432985098/1221229403347095632)
  designado
 - Curso de Git & Github de [Udemy](https://www.udemy.com/course/git-y-github-de-la-a-a-la-z/) 
