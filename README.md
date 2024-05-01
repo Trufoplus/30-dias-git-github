@@ -51,6 +51,7 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 - Aplicación Git-it para Windows/Mac/Linux: [Git-it](https://github.com/jlord/git-it-electron)
 - Recursos que vayan aportando la comunidad en el [hilo](https://discord.com/channels/729672926432985098/1221229403347095632)
  designado
+- Curso de Git & Github de [Udemy](https://www.udemy.com/course/git-y-github-de-la-a-a-la-z/) 
 
 ## ¡Únete y Mejora tus Habilidades con Git & GitHub!
 
