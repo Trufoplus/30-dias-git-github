@@ -88,4 +88,4 @@
 
     ![desktop-16](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/github_desktop-16.png)
 
-Con estos pasos, podrás utilizar GitHub Desktop para administrar tus repositorios de una manera más visual e intuitiva.
+

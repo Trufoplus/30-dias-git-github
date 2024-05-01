@@ -24,11 +24,11 @@ La dinámica de esta actividad es simple:
 ## Contenido de la actividad
 
 
-- Dia 1: [Historia y fundamentos de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/1.%E2%80%90-Dia-1-%E2%80%90)
-- Dia 2: [Configuración y uso básico de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/2.%E2%80%90-Dia-2-%E2%80%90)
-- Dia 3: [Comandos Vim](https://github.com/Trufoplus/30-dias-git-github/wiki/3.%E2%80%90-Dia-3-%E2%80%90)
-- Dia 4: [Comandos basicos de Git 1/2](https://github.com/Trufoplus/30-dias-git-github/wiki/4.%E2%80%90-Dia-4-%E2%80%90)
-- Dia 5: [Comandos basicos de git 2/2](https://github.com/Trufoplus/30-dias-git-github/wiki/5.%E2%80%90-Dia-5-%E2%80%90-Readme)
+- Dia 1: [Historia y fundamentos de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/1.%E2%80%90-Dia-1-%E2%80%90-Historia-y-Fundamentos-de-Git)
+- Dia 2: [Configuración y uso básico de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/2.%E2%80%90-Dia-2-%E2%80%90-Instalaci%C3%B3n-y-Configuraci%C3%B3n-de-Git)
+- Dia 3: [Comandos Vim](https://github.com/Trufoplus/30-dias-git-github/wiki/3.%E2%80%90-Dia-3-%E2%80%90-Comandos-Vim)
+- Dia 4: [Comandos basicos de Git](https://github.com/Trufoplus/30-dias-git-github/wiki/4.%E2%80%90-Dia-4-%E2%80%90-Comandos-basicos-Git-1-2)
+- Dia 5: [Atajos de Comandos](https://github.com/Trufoplus/30-dias-git-github/wiki/5.%E2%80%90-Dia-5-%E2%80%90-Atajos-para-comandos)
 - Dia 6: [Branch y Merge](https://github.com/Trufoplus/30-dias-git-github/wiki/6.-Dia-6-%E2%80%90-Branch-y-Merge)
 - Dia 7: [Tags](https://github.com/Trufoplus/30-dias-git-github/wiki/7.-Dia-7-%E2%80%90-Tags)
 - Dia 8: [Stash](https://github.com/Trufoplus/30-dias-git-github/wiki/8.-Dia-8-%E2%80%90-Stash)
@@ -45,7 +45,7 @@ La dinámica de esta actividad es simple:
 - Dia 18: [New Projects](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-18-%E2%80%90-Organizaci%C3%B3n-y-Gesti%C3%B3n-de-Proyectos-en-GitHub)
 - Dia 19: [Pages](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-19-%E2%80%90-Github-Pages,-C%C3%B3mo-alojar-tu-sitio-web-usando-GitHub-Pages.)
 - Dia 20: [Gists](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-20-%E2%80%90--Qu%C3%A9-es-Gists,-Utilidades-y-formas-de-usar-Gists.)
-- Dia 21: [Github Desktop 1/2]()
+- Dia 21: [Github Desktop 1/2](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-21-%E2%80%90--GitHub-Desktop-1-2)
 - Dia 22: [Github Desktop 2/2]()
 - Dia 23: [Seguridad]()
 - Dia 24: [Llaves y claves]()
