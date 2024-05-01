@@ -70,3 +70,5 @@ La dinámica de esta actividad es simple:
 ¡Te invitamos a unirte a nosotros en este emocionante viaje de 30 días para dominar Git & GitHub! ¡Esperamos verte en el camino y ayudarte a mejorar tus habilidades de desarrollo de software!
 
 ---
+
+![30 Dias](https://github.com/kontroldev/30dias-git-github/assets/75795616/2361c075-218b-471a-9924-36be3867f6f4)
