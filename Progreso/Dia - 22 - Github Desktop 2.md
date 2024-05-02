@@ -20,4 +20,42 @@
 
 Repitiendo los pasos proporcionados, puedes clonar varios repositorios en GitHub Desktop, ya sean propios o de otros usuarios, siempre que sean públicos. Esto te permite trabajar con los repositorios de GitHub de manera eficiente y colaborativa.
 
+# Flujo de Trabajo en GitHub Desktop
 
+1. **Creación de una Rama Nueva:**
+   - Abre GitHub Desktop y selecciona el repositorio en el que deseas trabajar.
+   - Haz clic en "Branch" y luego en "New Branch".
+   - Introduce un nombre para tu nueva rama, por ejemplo, "Features", y crea la rama.
+
+2. **Publicación de la Rama en GitHub:**
+   - Publica la rama en GitHub para que tus compañeros puedan ver que estás trabajando en ella, puedes darle a cualquiera de las dos opciones remarcada en amarillo en la foto.
+
+   ![desktop-2]()
+
+3. **Visualización de los Cambios en GitHub:**
+   - Ve a la página web de GitHub para ver cómo se ven los cambios en la nueva rama que has creado.
+
+4. **Edición de Archivos en tu Editor de Código:**
+   - Abre tu editor de código (por ejemplo, Visual Studio Code) y realiza los cambios necesarios en los archivos del repositorio.
+
+5. **Realización de Commits:**
+   - Después de hacer cambios, realiza commits para guardar los cambios localmente. Asegúrate de añadir mensajes descriptivos a tus commits.
+
+6. **Sincronización con GitHub:**
+   - Una vez que estés satisfecho con los cambios en tu rama, sincroniza los cambios con GitHub haciendo un "push".
+
+7. **Creación de un Pull Request:**
+   - Desde la página web de GitHub, crea un "pull request" para fusionar tus cambios en la rama principal (por ejemplo, "main").
+
+    ![desktop-3]() 
+
+8. **Fusión de la Rama:**
+   - Si tus cambios son aprobados, fusiona la rama creada con la rama principal a través de un "merge".
+
+9. **Eliminación de la Rama:**
+   - Una vez que tus cambios han sido incorporados, elimina la rama que creaste para mantener el repositorio limpio y ordenado. Asegúrate de eliminarla tanto localmente como en GitHub.
+
+10. **Finalización del Trabajo:**
+    - Una vez completado este proceso, has terminado tu trabajo en la rama y has contribuido al proyecto de manera efectiva.
+
+Este flujo de trabajo te permite colaborar de manera eficiente en proyectos utilizando GitHub Desktop, GitHub y tu editor de código preferido.
