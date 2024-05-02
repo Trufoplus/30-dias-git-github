@@ -46,7 +46,7 @@ La dinámica de esta actividad es simple:
 - Dia 19: [Pages](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-19-%E2%80%90-Github-Pages,-C%C3%B3mo-alojar-tu-sitio-web-usando-GitHub-Pages.)
 - Dia 20: [Gists](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-20-%E2%80%90--Qu%C3%A9-es-Gists,-Utilidades-y-formas-de-usar-Gists.)
 - Dia 21: [Github Desktop 1/2](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-21-%E2%80%90--GitHub-Desktop-1)
-- Dia 22: [Github Desktop 2/2]()
+- Dia 22: [Github Desktop 2/2](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-22-%E2%80%90-Github-Desktop-2)
 - Dia 23: [Seguridad]()
 - Dia 24: [Llaves y claves]()
 - Dia 25: [Github desde VsCode]()
