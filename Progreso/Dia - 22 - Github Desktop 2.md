@@ -4,7 +4,7 @@
 
 2. **Seleccionar la opción de Clonar Repositorio:** En la interfaz de GitHub Desktop, busca y selecciona la opción para clonar un repositorio, en la pestaña "File".
 
-![desktop-1]()
+![desktop-1](https://github.com/Trufoplus/30-dias-git-github/blob/features/Progreso/img/desktop-1.png)
 
 3. **Agregar la URL del Repositorio:** Una vez que estés en la opción de clonar un repositorio, tendrás la opción de agregar la URL del repositorio que deseas clonar. Esta URL es la dirección web del repositorio en GitHub, pincha donde pone "URL".
 
@@ -30,7 +30,7 @@ Repitiendo los pasos proporcionados, puedes clonar varios repositorios en GitHub
 2. **Publicación de la Rama en GitHub:**
    - Publica la rama en GitHub para que tus compañeros puedan ver que estás trabajando en ella, puedes darle a cualquiera de las dos opciones remarcada en amarillo en la foto.
 
-   ![desktop-2]()
+   ![desktop-2](https://github.com/Trufoplus/30-dias-git-github/blob/features/Progreso/img/desktop-2.png)
 
 3. **Visualización de los Cambios en GitHub:**
    - Ve a la página web de GitHub para ver cómo se ven los cambios en la nueva rama que has creado.
@@ -47,7 +47,7 @@ Repitiendo los pasos proporcionados, puedes clonar varios repositorios en GitHub
 7. **Creación de un Pull Request:**
    - Desde la página web de GitHub, crea un "pull request" para fusionar tus cambios en la rama principal (por ejemplo, "main").
 
-    ![desktop-3]() 
+    ![desktop-3](https://github.com/Trufoplus/30-dias-git-github/blob/features/Progreso/img/desktop-3.png) 
 
 8. **Fusión de la Rama:**
    - Si tus cambios son aprobados, fusiona la rama creada con la rama principal a través de un "merge".
