@@ -42,7 +42,7 @@ GitHub también elimina automáticamente las claves SSH inactivas después de un
 
    - Para clonar un repositorio, usa el URL SSH proporcionado por el repositorio y ejecuta el comando `git clone` seguido del URL.
 
-    ![ssh-1]()
+    ![ssh-1](https://github.com/Trufoplus/30-dias-git-github/blob/main/Progreso/img/ssh-1.png)
 
 5. **Gestión de llaves SSH:**
    - Si necesitas eliminar o cambiar tu llave SSH, puedes hacerlo eliminando el archivo correspondiente en el directorio `~/.ssh/`.
