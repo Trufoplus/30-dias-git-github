@@ -51,7 +51,7 @@ La dinámica de esta actividad es simple:
 - Dia 24: [Access Tokens & Perfil Con un Readme Atractivo](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-24-%E2%80%90-Access-Tokens-&-Perfil-Con-un-Readme-Atractivo)
 - Dia 25: [Autenticacion SSH](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-25-%E2%80%90-Autenticacion-SSH)
 - Dia 26: [Sparse Checkout](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-26-%E2%80%90-Sparse-Checkout)
-- Dia 27: [en construccion]()
+- Dia 27: [Git & Github en VS Code](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-27-%E2%80%90-Git-&-Github-en--VS-code)
 - Dia 28: [en construccion]()
 - Dia 29: [en construccion]()
 - Dia 30: [en construccion]()
