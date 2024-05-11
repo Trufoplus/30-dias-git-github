@@ -1,3 +1,0 @@
-Web de documentación de MarkDown de la clase 40.
-
-https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
