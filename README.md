@@ -54,7 +54,7 @@ La dinámica de esta actividad es simple:
 - Dia 27: [Git & Github en VS Code](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-27-%E2%80%90-Git-&-Github-en--VS-code)
 - Dia 28: [Trunk Based Development vs Git Flow](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-28-%E2%80%90--Trunk-Based-Development-vs-Git-Flow)
 - Dia 29: [Buenas prácticas al trabajar con Git](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-29-%E2%80%90-Buenas-pr%C3%A1cticas-al-trabajar-con-Git)
-- Dia 30: [Buenas prácticas al trabajar con GitHub](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-30-%E2%80%90-Buenas-practicas-al-trabajar-con-Github)
+- Dia 30: [Buenas practicas en Github y Licencias de uso](https://github.com/Trufoplus/30-dias-git-github/wiki/Dia-30-%E2%80%90-Buenas-practicas-en-Github-y-Licencias-de-uso.)
 
 ## Que recursos utilizaremos
 - Repositorio de Brais Moure: [hello-git](https://github.com/mouredev/hello-git)
